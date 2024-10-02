@@ -21,7 +21,7 @@ Follow these steps to clone and run the project:
 
 2. Install the necessary dependencies:
    ```bash
-    dotnet restore
+   dotnet restore
    ```
 
 3. Run the project:
