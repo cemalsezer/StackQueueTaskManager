@@ -1,6 +1,4 @@
 # Stack vs Queue Task Manager - Performance Comparison
-## Stack vs Queue Task Manager
-
 
 ## Short Description:
 This project was developed to compare the task processing speeds of stack and queue data structures. Using the BenchmarkDotNet library, the speed at which tasks are processed on these two data structures has been analyzed. The project aims to demonstrate software performance analysis and provide a better understanding of the functionality of these data structures.
