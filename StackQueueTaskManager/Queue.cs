@@ -39,8 +39,8 @@ namespace StackQueueTaskManager
     }
     public enum QueueType
     {
-        Array = 0,   
-        
+        Array = 0,
+
     }
 }
 
